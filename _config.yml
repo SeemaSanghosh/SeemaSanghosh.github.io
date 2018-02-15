@@ -1,28 +1,12 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Seema Sanghosh
+title: सीमा संघोष
+author: सीमा जागरण मंच
 email: news@seemasanghosh.org
 description: >- # this means to ignore newlines until "baseurl:"
-  An initiative of Seema Jagaran Manch, an affiliate organisation of
-  Rashtriya Swayamsevak Sangh. Our aim is to bring news related to
-  the 24 border states of Bharat.
+  'सीमा संघोष' सीमा जागरण मंच की एक पहल है। हमारा लक्ष्य सीमावर्ती क्षेत्रों से संबंधित
+  सामान्य ज्ञान, सूचनाओं एवं समाचारों को देश के नागरिकों तक पहुँचाना है।
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://seemasanghosh.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SeemaSanghosh
-github_username:  SeemaSanghosh
 facebook_username: SeemaSanghosh
 instagram_username: SeemaSanghosh
 
@@ -31,15 +15,3 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
