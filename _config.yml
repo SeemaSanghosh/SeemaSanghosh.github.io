@@ -3,7 +3,7 @@ author: सीमा जागरण मंच
 email: news@seemasanghosh.org
 description: >- # this means to ignore newlines until "baseurl:"
   'सीमा संघोष' सीमा जागरण मंच की एक पहल है। हमारा लक्ष्य सीमावर्ती क्षेत्रों से संबंधित
-  सामान्य ज्ञान, सूचनाओं एवं समाचारों को देश के नागरिकों तक पहुँचाना है।
+  सामान्य ज्ञान, सूचनाएँ एवं समाचारों को देश के नागरिकों तक पहुँचाना है।
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://seemasanghosh.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SeemaSanghosh
